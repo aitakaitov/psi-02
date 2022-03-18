@@ -1,5 +1,9 @@
 # psi-02 - Multi-threaded TCP socket server
 
+## Usage
+
+<code>python server.py 6006</code> or any other port.
+
 ## Description
 
 Written in Python 3, tested with version 3.8. The only file is <code>server.py</code>, which takes one parameter - port number. The server is then run on <code>localhost:port</code>.
